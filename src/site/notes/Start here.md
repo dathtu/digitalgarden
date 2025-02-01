@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/start-here/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/start-here/","tags":["gardenEntry"],"created":"2025-02-01T21:25:43.911+11:00","updated":"2025-02-02T09:53:39.326+11:00"}
 ---
 
 Hello world! Welcome to my digital garden written from Obsidian app. 
