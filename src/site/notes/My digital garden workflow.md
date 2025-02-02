@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-digital-garden-workflow/","title":"My digital garden workflow","tags":["obsidian"],"created":"2025-02-02T10:03:45.682+11:00","updated":"2025-02-02T11:51:23.770+11:00"}
+{"dg-publish":true,"permalink":"/my-digital-garden-workflow/","title":"My digital garden workflow","tags":["obsidian"],"noteIcon":"1","created":"2025-02-02T22:31:48.108+11:00","updated":"2025-02-02T22:53:23.000+11:00"}
 ---
 
 ## The writing app of choice - Obsidian 
@@ -15,4 +15,4 @@ I use Obsidian, GitHub and Netlify to publish the notes, the workflow is simple:
 4. Send command publish to send it live to this site. 
 5. The note is ready and live to this digital garden. 
 
-My workflow is simple but requires technical setup. I might create a guide on how I set this up in the future. I will put a link here when it's ready.
+My workflow is simple but requires technical setup. I might create a guide on how I set this up in the future and put a link here when it's ready.
