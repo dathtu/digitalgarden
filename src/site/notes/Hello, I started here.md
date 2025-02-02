@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/hello-i-started-here/","title":"Hello, I started here","tags":["gardenEntry"],"created":"2025-02-01T21:25:43.911+11:00","updated":"2025-02-02T11:48:03.515+11:00"}
+{"dg-publish":true,"permalink":"/hello-i-started-here/","title":"Hello, I started here","tags":["gardenEntry"],"created":"2025-02-01T21:25:43.911+11:00","updated":"2025-02-02T12:04:13.153+11:00"}
 ---
 
-===Hello world!=== Welcome to my digital garden published by Obsidian app. 
+==Hello world!== Welcome to my digital garden published by Obsidian app. 
 
 ## What this place is
 A place to capture and store relevant notes, thoughts, ideas, quotes, project notes, information and knowledge I want to hold onto. 
