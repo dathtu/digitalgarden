@@ -19,6 +19,7 @@ A blog with refined posts, excellent writing skills, regularly updated.
 | [[My note-taking workflow\|My note-taking workflow]] | February 02, 2025 |
 | [[Start here\|Start here]]                           | February 01, 2025 |
 | [[File over app\|File over app]]                     | February 03, 2025 |
+| [[Obsidian\|Obsidian]]                               | February 03, 2025 |
 
 { .block-language-dataview}
 
