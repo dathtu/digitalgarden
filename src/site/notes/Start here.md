@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/start-here/","title":"Start here","tags":["gardenEntry"],"noteIcon":"1","created":"2025-02-03T18:27:02.257+11:00","updated":"2025-02-03T22:50:50.790+11:00"}
+{"dg-publish":true,"permalink":"/start-here/","title":"Start here","tags":["gardenEntry"],"noteIcon":"1","created":"2025-02-03T18:27:02.257+11:00","updated":"2025-02-03T23:14:03.267+11:00"}
 ---
 
-Welcome to my digital garden published by Obsidian app. 
+Welcome to my digital garden published by [[Why Obsidian\|Obsidian]] app. 
 
 # What this place is
 A place to capture and store relevant notes, thoughts, ideas, quotes, project notes, information and knowledge I want to hold onto. 
