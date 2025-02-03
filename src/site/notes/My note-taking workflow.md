@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-note-taking-workflow/","title":"My note-taking workflow","tags":["obsidian"],"noteIcon":"1","created":"2025-02-03T18:27:01.989+11:00","updated":"2025-02-04T00:12:31.994+11:00"}
+{"dg-publish":true,"permalink":"/my-note-taking-workflow/","title":"My note-taking workflow","tags":["obsidian"],"noteIcon":"1","created":"2025-02-03T18:27:01.989+11:00","updated":"2025-02-04T00:13:44.697+11:00"}
 ---
 
 

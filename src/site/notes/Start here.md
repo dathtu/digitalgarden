@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/start-here/","title":"Start here","tags":["gardenEntry"],"noteIcon":"1","created":"2025-02-03T18:27:02.257+11:00","updated":"2025-02-04T00:12:32.011+11:00"}
+{"dg-publish":true,"permalink":"/start-here/","title":"Start here","tags":["gardenEntry"],"noteIcon":"1","created":"2025-02-03T18:27:02.257+11:00","updated":"2025-02-04T00:14:02.540+11:00"}
 ---
 
 Welcome to my digital garden published by [[Obsidian\|Obsidian]] app. 
