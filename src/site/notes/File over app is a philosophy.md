@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/file-over-app-is-a-philosophy/","title":"file over app","tags":["obsidian"],"noteIcon":"1","created":"2025-02-03T18:43:09.892+11:00","updated":"2025-02-03T19:46:14.607+11:00"}
+{"dg-publish":true,"permalink":"/file-over-app-is-a-philosophy/","title":"file over app","tags":["obsidian"],"noteIcon":"1","created":"2025-02-03T18:43:09.892+11:00","updated":"2025-02-03T22:51:58.248+11:00"}
 ---
 
 >  if you want to create digital artifacts that last, they must be files you can control, in formats that are easy to retrieve and read. Use tools that give you this freedom.
