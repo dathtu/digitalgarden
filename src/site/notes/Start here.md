@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/start-here/","title":"Start here","tags":["gardenEntry"],"noteIcon":"1","created":"2025-02-03T18:27:02.257+11:00","updated":"2025-02-03T19:41:37.071+11:00"}
+{"dg-publish":true,"permalink":"/start-here/","title":"Start here","tags":["gardenEntry"],"noteIcon":"1","created":"2025-02-03T18:27:02.257+11:00","updated":"2025-02-03T19:44:51.141+11:00"}
 ---
 
-Hello world!
+Hello world! Xin chào
 Welcome to my digital garden published by Obsidian app. 
 
 # What this place is
