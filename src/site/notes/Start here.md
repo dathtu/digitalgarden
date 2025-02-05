@@ -1,20 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/start-here/","title":"Start here","tags":["gardenEntry"],"noteIcon":"1","created":"2025-02-03T18:27:02.257+11:00","updated":"2025-02-04T00:17:50.858+11:00"}
+{"dg-publish":true,"permalink":"/start-here/","title":"Start here","tags":["gardenEntry"],"noteIcon":"1","created":"2025-02-03T18:27:02.257+11:00","updated":"2025-02-05T19:47:49.312+11:00"}
 ---
 
-Welcome to my digital garden published by [[Why Obsidian\|Obsidian]] app. 
-# What this place is
-A place to capture and store relevant notes, thoughts, ideas, quotes, project notes, information and knowledge I want to hold onto. 
-It's a personal wiki where I continue to improve the notes over time. So yes, it is a work-in-progress wiki. 
-# What this place is not
-A blog with refined posts, excellent writing skills, regularly updated.
+A digital garden published by [[Why Obsidian\|Obsidian]] app. 
+A place to capture and store evolving thoughts, notes, ideas, information and knowledge I want to hold onto.  It's a personal wiki where I continue to improve the notes over time a share to the public.
+# How to use this site
+- Click on any link to explore in a non-linear way, there is no structure here
+- `CMD+K` to search for content, `CTL+K` if you are on Windows
+- 
 # Things I'm working on
-- take more notes to grow this garden 🌳
 - create a map of content (MOC) 🗺️
-- create a dark mode button  🦉
+- create a dark/light mode toggle 🌚
+- make better notes 📝
 
 # Writing 
-| notes                                                             | posted            |
+| Notes                                                             | Published         |
 | ----------------------------------------------------------------- | ----------------- |
 | [[File over app\|File over app]]                               | February 03, 2025 |
 | [[Start here\|Start here]]                                     | February 01, 2025 |
