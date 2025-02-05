@@ -15,11 +15,12 @@ A place to capture and store evolving thoughts, notes, ideas, information and kn
 # Writing 
 | Notes                                                             | Published         |
 | ----------------------------------------------------------------- | ----------------- |
-| [[File over app\|File over app]]                               | February 03, 2025 |
-| [[Start here\|Start here]]                                     | February 01, 2025 |
 | [[My note-taking workflow\|My note-taking workflow]]           | February 02, 2025 |
-| [[Why Obsidian\|Why Obsidian]]                                 | February 03, 2025 |
+| [[File over app\|File over app]]                               | February 03, 2025 |
+| [[NAS upgrade\|NAS upgrade]]                                   | February 05, 2025 |
 | [[Raspberry Pi 4 as a tiny NAS\|Raspberry Pi 4 as a tiny NAS]] | February 04, 2025 |
+| [[Start here\|Start here]]                                     | February 01, 2025 |
+| [[Why Obsidian\|Why Obsidian]]                                 | February 03, 2025 |
 
 { .block-language-dataview}
 
